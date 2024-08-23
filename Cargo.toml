@@ -2,7 +2,7 @@
 name = "greedysnake"
 version = "0.1.0"
 authors = ["Liu Yiding <odinushuaia@gmail.com>"]
-edition = "2024"
+edition = "2021"
 
 [dependencies]
 bracket-lib = "~0.8.1"
